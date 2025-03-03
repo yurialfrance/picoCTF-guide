@@ -12,5 +12,7 @@ Just Click the highlighted TITLE to see the guide for answering the challenge :)
 
 2. *(Coming soon!)*
 3. *(Coming soon!)*
+4. *(Coming soon!)*
+5. *(Coming soon!)*
 
 Stay tuned for more solutions! 🚀
