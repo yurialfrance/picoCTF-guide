@@ -1,6 +1,7 @@
 # picoCTF Challenges
 
 Welcome to the picoCTF challenge solutions repository! This repository contains solutions and explanations for various picoCTF challenges, making it easier for beginners to understand and solve them.
+Just Click the highlighted TITLE to see the guide for answering the challenge :)
 
 ## Challenge List
 
