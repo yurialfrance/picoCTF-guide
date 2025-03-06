@@ -16,7 +16,10 @@ Just Click the highlighted TITLE to see the guide for answering the challenge :)
    **Description:** Image MetaData Files can always be changed in a secret way. Can you find the flag? cat.jpg
    **Link:** [Information Challenge](https://play.picoctf.org/practice?difficulty=1&page=1&search=information)
    
-4. *(Coming soon!)*
+4. [**Nice netcat...**](https://github.com/yurialfrance/picoCTF-guide/blob/main/nice_netcat.md)  
+   **Author:** syreal
+   **Description:** There is a nice program that you can talk to by using this command in a shell: $ nc mercury.picoctf.net 7449, but it doesn't speak English...
+   **Link:** [Information Challenge](https://play.picoctf.org/practice?page=1&search=nice)
 5. *(Coming soon!)*
 6. *(Coming soon!)*
 
