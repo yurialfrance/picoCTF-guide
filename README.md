@@ -19,7 +19,7 @@ Just Click the highlighted TITLE to see the guide for answering the challenge :)
 4. [**Nice netcat...**](https://github.com/yurialfrance/picoCTF-guide/blob/main/nice_netcat.md)  
    **Author:** syreal
    **Description:** Find the flag being held on this server to get ahead of the competition http://mercury.picoctf.net:15931/
-   **Link:** [Information Challenge](https://play.picoctf.org/practice?page=1&search=nice)
+   **Link:** [Nice netcat Challenge](https://play.picoctf.org/practice?page=1&search=nice)
 5.  [**GETaHEAD**](https://github.com/yurialfrance/picoCTF-guide/blob/main/GETaHEAD.md)  
    **Author:** madStacks
    **Description:** There is a nice program that you can talk to by using this command in a shell: $ nc mercury.picoctf.net 7449, but it doesn't speak English...
