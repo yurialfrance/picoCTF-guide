@@ -4,7 +4,7 @@
 **Challenge Name:** Endianness-v2  
 **Author:** Junias Bonou  
 **Category:** Forensics  
-**Difficulty:** Easy  
+**Difficulty:** Medium
 
 ## Description
 Here's a file that was recovered from a 32-bit system that organized the bytes in a weird way. We're not even sure what type of file it is. Download it [here](https://artifacts.picoctf.net/c_titan/114/challengefile) and see what you can get out of it.
