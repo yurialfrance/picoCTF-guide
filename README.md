@@ -28,7 +28,7 @@ Just Click the highlighted TITLE to see the guide for answering the challenge :)
    **Author:** madStacks
    **Description:** There is some interesting information hidden around this site http://mercury.picoctf.net:39698/. Can you find it?
    **Link:** [Scavenger-Hunt Challenge](https://play.picoctf.org/practice?category=1&difficulty=1&page=1&search=Scavenger%20Hunt)
-6. [**Verify**](https://github.com/yurialfrance/picoCTF-guide/blob/main/Verify.md)  
+6. [**Verify**](https://github.com/yurialfrance/picoCTF-guide/blob/main/verify.md)  
    **Author:** madStacks
    **Description:** People keep trying to trick my players with imitation flags. I want to make sure they get the real thing! I'm going to provide the SHA-256 hash and a decrypt script to help you know that my flags are legitimate.
    **Link:** [Verify](https://play.picoctf.org/practice?category=4&page=1&search=verify)
